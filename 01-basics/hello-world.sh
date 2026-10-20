@@ -6,3 +6,4 @@ printf 'Current user: %s\n' "$(whoami)"
 printf 'Current date: %s\n' "$(date)"
 printf 'Current directory: %s\n' "$(pwd)"
 printf 'System Name: %s\n' "$(uname)"
+#!/bin/bash
